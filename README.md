@@ -4,7 +4,7 @@ Ce script permet de calculer les moyennes des matières et la moyenne générale
 
 ## 🚀 Comment l'utiliser
 1. Installez [Python](https://www.python.org/) sur votre ordinateur.
-2. Téléchargez le fichier `main.py`.
+2. Téléchargez le fichier `moyenne.py`.
 3. Lancez le script : `python main.py`
 
 ## ⚙️ Fonctionnement
